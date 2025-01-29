@@ -4,7 +4,7 @@ import pyttsx3
 
 
 # Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key.
-openai.api_key = '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'
+openai.api_key = 'Insert your Api Key Here'
 
 
 # Initialize the TTS engine
